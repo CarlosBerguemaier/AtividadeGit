@@ -3,3 +3,24 @@ git config --global user.name "Carlos Berguemaier"
 git config --global user.name "carloseduardogindri@gmail.com"
 
 git init
+
+touch introducao.txt
+
+touch desenvolvimento.txt
+
+touch conclusao.txt
+
+git add .
+
+git commit -am "introduzindo arquivos comandos.txt, conculsao.txt, desenvolvimento.txt e introducao.txt"
+
+git branch desenvolvimento
+
+git branch revisao
+
+git checkout desenvolvimento
+
+code . 
+
+git commit -am "adicionado linhas em introducao.txt, desenvolvimento.txt e conclusao.txt"
+
