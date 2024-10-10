@@ -29,3 +29,11 @@ git checkout revisao
 code .
 
 git commit -am "adicionado linhas em introducao.txt e desenvolvimento.txt"
+
+git checkout desenvolvimento
+
+git merge revisao -m "mesclando branches revisao e desenvolvimento"
+
+git commit -am "resolvendo conflitos do merge"
+
+
