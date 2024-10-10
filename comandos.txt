@@ -24,3 +24,8 @@ code .
 
 git commit -am "adicionado linhas em introducao.txt, desenvolvimento.txt e conclusao.txt"
 
+git checkout revisao
+
+code .
+
+git commit -am "adicionado linhas em introducao.txt e desenvolvimento.txt"
