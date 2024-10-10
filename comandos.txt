@@ -43,3 +43,7 @@ git log --oneline
 git log --graph --oneline --all
 
 git checkout master
+
+git add .
+
+git commit -am "adicionado prints"
