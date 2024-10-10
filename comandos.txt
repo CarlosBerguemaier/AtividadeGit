@@ -1,0 +1,5 @@
+git config --global user.name "Carlos Berguemaier"
+
+git config --global user.name "carloseduardogindri@gmail.com"
+
+git init
